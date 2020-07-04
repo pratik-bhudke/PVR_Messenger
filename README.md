@@ -1,1 +1,2 @@
-# PVR_Messenger
+# PVR Messenger
+**This project is a messenger application which can be used by various people to communicate with each other. In the application, every client gets a separate interface for himself in which he can use the features of the application. The PVR Messenger includes broadcast communication, one to one communication between users, file transfer (.txt,.pdf,.png,.docx or any other file format) etc.**
